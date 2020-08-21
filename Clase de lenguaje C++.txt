@@ -1,0 +1,74 @@
+Introduccion a la materia y apuntadores:
+
+https://drive.google.com/file/d/12htK0aJZX1Zi1KljiDcCvZR_9J9QJHI8/view
+
+https://drive.google.com/file/d/1sYmc6-NuErXtPC9gI5Usl6cjp4KVQegj/view
+
+
+Metodos de ordenamiento y busqueda:
+
+https://drive.google.com/file/d/17lMJ6y9jsTdf1Wvi5tQX5RDRsHyZOS89/view
+
+https://drive.google.com/file/d/17KaIJh6U9-iNTkfv80hQtnP3toBbbhl5/view
+
+https://drive.google.com/file/d/1ljoz7WvbN4kkUE11Bzyb3sEBURdtARi_/view
+
+https://drive.google.com/file/d/110eiNmG6WFyfZg623XFnDlulaulaheRu/view
+
+https://drive.google.com/file/d/1m3yrf7PQlwChlNb6HHOnDvrBvGYkrHRN/view
+
+
+Listas y Manejo dinamico de memoria:
+
+https://drive.google.com/file/d/1AbEGIwt-H6Uxje9DGYPKgCxnD8I7x4ic/view
+
+https://drive.google.com/file/d/1xZQS_CzToAi0yMVbM55XgnYYcfN66p1L/view
+
+https://drive.google.com/file/d/1wzGpDtvH1swQfptMNQ2TTN1bLaInjRdN/view
+
+https://drive.google.com/file/d/1UWxwz9JZyhV6Q2b1aT0IhlXR_uWO_kKI/view
+
+https://drive.google.com/file/d/1BHcKjHq1KHpXp3fwyYV9X3PXrH_AXxec/view
+
+
+Manejo de Dos Listas:
+
+https://drive.google.com/file/d/1i2RbFP4fkyJqFW260oQ2YsbXke3hvaC9/view
+
+https://drive.google.com/file/d/1aVuxnbx2Ih92NnKrcH3zBPzSe1PbvVoZ/view
+
+https://drive.google.com/file/d/16DT1CcFVce02W4H9krWTAMMuuCFvg6cV/view
+
+
+Introduccion a la recursividad:
+
+https://drive.google.com/file/d/1bg2_Loa_Eht4cjhtPtWwf1PAIsc5vwTu/view
+
+
+Pilas:
+
+https://drive.google.com/file/d/1zJMWVKsLx0WST1cTm8fBzGTDk3O7Nl3i/view
+
+https://drive.google.com/file/d/1voxOOzuCGnZLNrfLYkyt2gxIGb1CUTQr/view
+
+https://drive.google.com/file/d/1IYIsrrxs8Q6OaRVn70HL2OZ2Bk0t9uE8/view
+
+https://drive.google.com/file/d/1naamyiQsj7GVDWOZbmxik4VnFFeXTF24/view
+
+
+Arboles AVL y BTree:
+
+https://www.youtube.com/watch?v=aSlCcKL4Xog
+
+https://www.youtube.com/watch?v=kAzYAy6AJbg
+
+https://www.youtube.com/watch?v=e8yDQevWH9s&t=3s
+
+
+
+NOTA: Ver los links en orden por cada categoria para que no se pierdan en cada parte
+
+
+
+
+
